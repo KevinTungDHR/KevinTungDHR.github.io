@@ -1,0 +1,15 @@
+.logo {
+  width: 100%;
+}
+
+.logo-container {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.logos-container-flex {
+  display: flex;
+  column-gap: 1em;
+  align-items: center;
+}
+
